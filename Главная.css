@@ -1,0 +1,214 @@
+ .u-section-1 {
+  background-image: url("images/35c23eeb3d5ee65f28a51ea71312fa5c75700e904f7c85348668ebfaae957ca4e095b3c2a0dda633ebe3f625af28c13c806d5624d49002f1470363_1280-12.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 954px;
+}
+
+.u-section-1 .u-shape-1 {
+  height: 404px;
+  margin-top: 39px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-gallery-1 {
+  height: 343px;
+  width: 1097px;
+  margin: -383px auto 0;
+}
+
+.u-section-1 .u-gallery-inner-1 {
+  grid-template-columns: auto auto auto;
+}
+
+.u-section-1 .u-gallery-item-1 {
+  margin-right: 19px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-gallery-item-2 {
+  margin-right: 19px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-gallery-item-3 {
+  margin-right: 19px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-gallery-item-4 {
+  margin-right: 19px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-gallery-item-5 {
+  margin-right: 19px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-over-slide-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-gallery-item-6 {
+  margin-right: 19px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-over-slide-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-gallery-nav-1 {
+  position: absolute;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  padding: 8px;
+}
+
+.u-section-1 .u-gallery-nav-2 {
+  position: absolute;
+  right: 10px;
+  width: 40px;
+  height: 40px;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  padding: 8px;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 703px;
+  height: 53px;
+  margin: 57px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  margin: -46px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 314px;
+  height: 314px;
+  background-image: url("images/e81c0225-6976-a2e8-fab2-9ab865bdf8c6-11.png");
+  background-position: 50% 50%;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 46px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 787px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 164px;
+  }
+
+  .u-section-1 .u-gallery-1 {
+    width: 940px;
+    margin-top: -411px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-top: 456px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -44px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -431px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 708px;
+  }
+
+  .u-section-1 .u-gallery-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-top: 495px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -83px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 530px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 64px;
+  }
+
+  .u-section-1 .u-gallery-1 {
+    width: 540px;
+    margin-top: -403px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 540px;
+    margin-top: 9px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -470px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 538px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 26px;
+  }
+
+  .u-section-1 .u-gallery-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 340px;
+    margin-top: 55px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -444px;
+  }
+}
